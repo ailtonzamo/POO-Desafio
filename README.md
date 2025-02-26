@@ -1,2 +1,6 @@
 # POO-Desafio
-![image](https://github.com/user-attachments/assets/b4c3ac41-02d1-4804-bc40-aded0be5f55b)
+
+UML do iPhone
+A aborgagem 2 foi a que melhor se aplica
+
+![image](https://github.com/user-attachments/assets/41a5e24f-18ca-4f25-99dd-72ace7ab534b)
